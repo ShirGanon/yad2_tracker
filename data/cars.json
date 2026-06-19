@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastRun": "2026-06-19T16:45:52.652Z",
+  "lastRun": "2026-06-19T14:47:06.914Z",
   "cars": {
     "znpijk6b": {
       "id": "znpijk6b",
@@ -29,11 +29,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 53337156,
       "publishedAt": "2025-10-21T12:58:49",
-      "updatedAt": "2026-06-19T16:49:11",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T16:49:11"
     },
     "artrghxd": {
       "id": "artrghxd",
@@ -62,11 +61,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 68264039,
       "publishedAt": "2026-06-19T12:36:06",
-      "updatedAt": "2026-06-19T16:39:56",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T16:39:56"
     },
     "wf9an2p8": {
       "id": "wf9an2p8",
@@ -95,11 +93,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 83351887,
       "publishedAt": "2026-05-19T10:09:50",
-      "updatedAt": "2026-06-19T16:10:05",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T16:10:05"
     },
     "ogqnv63c": {
       "id": "ogqnv63c",
@@ -128,11 +125,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 76303656,
       "publishedAt": "2026-06-03T08:28:52",
-      "updatedAt": "2026-06-19T17:09:18",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T17:09:18"
     },
     "toi2q0tc": {
       "id": "toi2q0tc",
@@ -161,11 +157,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 51530914,
       "publishedAt": "2026-04-29T09:34:45",
-      "updatedAt": "2026-06-19T15:56:33",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:33"
     },
     "utqdbd6f": {
       "id": "utqdbd6f",
@@ -194,11 +189,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 58880345,
       "publishedAt": "2026-04-29T19:40:50",
-      "updatedAt": "2026-06-19T17:02:05",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T17:02:05"
     },
     "2yaji8d1": {
       "id": "2yaji8d1",
@@ -227,11 +221,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 85366910,
       "publishedAt": "2026-05-11T11:08:16",
-      "updatedAt": "2026-06-19T16:39:56",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T16:39:56"
     },
     "7r8mvy69": {
       "id": "7r8mvy69",
@@ -260,11 +253,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 98168140,
       "publishedAt": "2026-04-01T17:58:14",
-      "updatedAt": "2026-06-19T17:40:12",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T17:40:12"
     },
     "17xktfr0": {
       "id": "17xktfr0",
@@ -293,11 +285,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 45711737,
       "publishedAt": "2026-02-08T10:52:26",
-      "updatedAt": "2026-06-19T15:57:04",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:04"
     },
     "lx45cmkx": {
       "id": "lx45cmkx",
@@ -326,11 +317,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 52333181,
       "publishedAt": "2026-04-26T18:28:15",
-      "updatedAt": "2026-06-19T17:49:04",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T17:49:04"
     },
     "o5oysv2k": {
       "id": "o5oysv2k",
@@ -359,11 +349,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 58620961,
       "publishedAt": "2026-06-15T21:03:28",
-      "updatedAt": "2026-06-19T16:30:34",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T16:30:34"
     },
     "9bsrst95": {
       "id": "9bsrst95",
@@ -392,11 +381,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 74963693,
       "publishedAt": "2026-05-30T21:25:34",
-      "updatedAt": "2026-06-19T15:56:04",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:04"
     },
     "xd5mxrs8": {
       "id": "xd5mxrs8",
@@ -425,11 +413,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 63639379,
       "publishedAt": "2026-06-07T15:18:30",
-      "updatedAt": "2026-06-19T15:56:23",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:23"
     },
     "5163ougg": {
       "id": "5163ougg",
@@ -458,11 +445,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 55383856,
       "publishedAt": "2026-05-29T23:27:50",
-      "updatedAt": "2026-06-19T15:55:57",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:55:57"
     },
     "iq9koppk": {
       "id": "iq9koppk",
@@ -491,11 +477,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 53170876,
       "publishedAt": "2026-06-06T12:43:53",
-      "updatedAt": "2026-06-19T15:56:12",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:12"
     },
     "qkfeyewv": {
       "id": "qkfeyewv",
@@ -524,11 +509,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 72093620,
       "publishedAt": "2026-05-30T07:31:28",
-      "updatedAt": "2026-06-19T15:56:46",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:46"
     },
     "kiv20wwc": {
       "id": "kiv20wwc",
@@ -557,11 +541,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 63080198,
       "publishedAt": "2026-03-07T12:19:08",
-      "updatedAt": "2026-06-19T15:56:43",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:43"
     },
     "4druhzjd": {
       "id": "4druhzjd",
@@ -590,11 +573,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 77303949,
       "publishedAt": "2026-06-19T15:48:44",
-      "updatedAt": "2026-06-19T08:10:23",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T08:10:23"
     },
     "di2xdvla": {
       "id": "di2xdvla",
@@ -623,11 +605,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 76663773,
       "publishedAt": "2026-06-10T18:25:33",
-      "updatedAt": "2026-06-19T15:57:00",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:00"
     },
     "ziluvmdl": {
       "id": "ziluvmdl",
@@ -656,11 +637,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 81121739,
       "publishedAt": "2026-06-17T15:30:50",
-      "updatedAt": "2026-06-19T15:56:17",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:17"
     },
     "8dg53z5x": {
       "id": "8dg53z5x",
@@ -689,11 +669,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 47879355,
       "publishedAt": "2026-04-03T11:49:28",
-      "updatedAt": "2026-06-19T15:56:01",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:01"
     },
     "54prqdhf": {
       "id": "54prqdhf",
@@ -722,11 +701,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 52431780,
       "publishedAt": "2026-06-16T16:40:37",
-      "updatedAt": "2026-06-19T15:56:12",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:12"
     },
     "hqnq80yb": {
       "id": "hqnq80yb",
@@ -755,11 +733,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 68856035,
       "publishedAt": "2026-06-16T12:27:23",
-      "updatedAt": "2026-06-19T15:57:00",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:00"
     },
     "abkjka4f": {
       "id": "abkjka4f",
@@ -788,11 +765,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 75541015,
       "publishedAt": "2026-06-15T16:34:33",
-      "updatedAt": "2026-06-19T15:56:49",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:49"
     },
     "i5fnvitw": {
       "id": "i5fnvitw",
@@ -821,11 +797,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 61207404,
       "publishedAt": "2026-06-14T07:06:27",
-      "updatedAt": "2026-06-19T15:55:57",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:55:57"
     },
     "jyyg2mp5": {
       "id": "jyyg2mp5",
@@ -854,11 +829,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 81885708,
       "publishedAt": "2026-06-13T08:22:14",
-      "updatedAt": "2026-06-19T15:56:30",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:30"
     },
     "uiivkryu": {
       "id": "uiivkryu",
@@ -887,11 +861,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 76319947,
       "publishedAt": "2026-06-12T18:36:24",
-      "updatedAt": "2026-06-19T15:56:01",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:01"
     },
     "638wse1f": {
       "id": "638wse1f",
@@ -920,11 +893,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 59204155,
       "publishedAt": "2026-06-12T18:28:33",
-      "updatedAt": "2026-06-19T15:57:12",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:12"
     },
     "2ujx70vj": {
       "id": "2ujx70vj",
@@ -953,11 +925,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 61093304,
       "publishedAt": "2026-06-12T13:35:41",
-      "updatedAt": "2026-06-19T15:56:33",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:33"
     },
     "hu3ed7ty": {
       "id": "hu3ed7ty",
@@ -986,11 +957,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 86190517,
       "publishedAt": "2026-06-11T14:37:43",
-      "updatedAt": "2026-06-19T15:57:07",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:07"
     },
     "8pmbszg5": {
       "id": "8pmbszg5",
@@ -1019,11 +989,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 81968673,
       "publishedAt": "2026-06-10T22:55:33",
-      "updatedAt": "2026-06-19T15:57:15",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:15"
     },
     "pvhis1pg": {
       "id": "pvhis1pg",
@@ -1052,11 +1021,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 42303408,
       "publishedAt": "2026-06-08T17:47:40",
-      "updatedAt": "2026-06-19T15:56:51",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:51"
     },
     "zpsxaauh": {
       "id": "zpsxaauh",
@@ -1085,11 +1053,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 45697067,
       "publishedAt": "2026-06-07T18:32:43",
-      "updatedAt": "2026-06-19T15:56:15",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:15"
     },
     "nbuapvc8": {
       "id": "nbuapvc8",
@@ -1118,11 +1085,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 64682849,
       "publishedAt": "2026-05-31T12:23:01",
-      "updatedAt": "2026-06-19T15:56:49",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:49"
     },
     "2nzsvese": {
       "id": "2nzsvese",
@@ -1151,11 +1117,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 58223078,
       "publishedAt": "2026-06-06T21:22:26",
-      "updatedAt": "2026-06-19T15:57:10",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:10"
     },
     "1e4w4a72": {
       "id": "1e4w4a72",
@@ -1184,11 +1149,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 48478668,
       "publishedAt": "2026-06-06T16:56:33",
-      "updatedAt": "2026-06-19T15:56:17",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:17"
     },
     "8smy69qx": {
       "id": "8smy69qx",
@@ -1217,11 +1181,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 77858926,
       "publishedAt": "2026-06-05T14:34:40",
-      "updatedAt": "2026-06-19T15:56:30",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:30"
     },
     "x7zi89i0": {
       "id": "x7zi89i0",
@@ -1250,11 +1213,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 48313568,
       "publishedAt": "2026-06-02T19:56:30",
-      "updatedAt": "2026-06-19T15:56:23",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:23"
     },
     "mc2gxs1n": {
       "id": "mc2gxs1n",
@@ -1283,11 +1245,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 68145444,
       "publishedAt": "2026-05-24T12:53:34",
-      "updatedAt": "2026-06-19T15:57:15",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:15"
     },
     "e4m1qfuv": {
       "id": "e4m1qfuv",
@@ -1316,11 +1277,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 45023886,
       "publishedAt": "2026-06-01T14:58:31",
-      "updatedAt": "2026-06-19T15:57:15",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:15"
     },
     "iccmgkq1": {
       "id": "iccmgkq1",
@@ -1349,11 +1309,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 82134961,
       "publishedAt": "2026-04-10T14:22:00",
-      "updatedAt": "2026-06-19T15:56:10",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:10"
     },
     "mkc29wcc": {
       "id": "mkc29wcc",
@@ -1382,11 +1341,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 85574440,
       "publishedAt": "2026-05-27T21:07:44",
-      "updatedAt": "2026-06-19T15:56:46",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:46"
     },
     "f8hzzl75": {
       "id": "f8hzzl75",
@@ -1415,11 +1373,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 86110570,
       "publishedAt": "2026-05-27T16:05:10",
-      "updatedAt": "2026-06-19T15:56:04",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:04"
     },
     "9xkkv4lt": {
       "id": "9xkkv4lt",
@@ -1448,11 +1405,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 77227194,
       "publishedAt": "2026-04-13T15:05:38",
-      "updatedAt": "2026-06-19T15:56:20",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:20"
     },
     "y8b5bmku": {
       "id": "y8b5bmku",
@@ -1481,11 +1437,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 84070992,
       "publishedAt": "2026-05-16T16:49:15",
-      "updatedAt": "2026-06-19T15:56:38",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:38"
     },
     "ezrg3wpg": {
       "id": "ezrg3wpg",
@@ -1514,11 +1469,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 87609949,
       "publishedAt": "2026-05-25T11:38:11",
-      "updatedAt": "2026-06-19T15:56:41",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:41"
     },
     "u7qw7917": {
       "id": "u7qw7917",
@@ -1547,11 +1501,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 67519017,
       "publishedAt": "2026-05-24T16:47:03",
-      "updatedAt": "2026-06-19T15:56:38",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:38"
     },
     "1w8wppoi": {
       "id": "1w8wppoi",
@@ -1580,11 +1533,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 47435743,
       "publishedAt": "2026-05-24T08:57:00",
-      "updatedAt": "2026-06-19T15:56:10",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:10"
     },
     "r7w1jhyb": {
       "id": "r7w1jhyb",
@@ -1613,11 +1565,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 63801398,
       "publishedAt": "2026-05-21T22:13:59",
-      "updatedAt": "2026-06-19T15:55:57",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:55:57"
     },
     "scffjdym": {
       "id": "scffjdym",
@@ -1646,11 +1597,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 52272867,
       "publishedAt": "2026-05-19T16:33:28",
-      "updatedAt": "2026-06-19T15:56:46",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:46"
     },
     "lefw0u14": {
       "id": "lefw0u14",
@@ -1679,11 +1629,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 81404246,
       "publishedAt": "2022-10-24T21:28:37",
-      "updatedAt": "2026-06-19T15:56:57",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:57"
     },
     "p6ni2678": {
       "id": "p6ni2678",
@@ -1712,11 +1661,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 51379419,
       "publishedAt": "2026-02-16T06:37:25",
-      "updatedAt": "2026-06-19T15:56:41",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:41"
     },
     "w23p5f4t": {
       "id": "w23p5f4t",
@@ -1745,11 +1693,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 87730744,
       "publishedAt": "2026-05-15T10:51:43",
-      "updatedAt": "2026-06-19T15:57:15",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:15"
     },
     "khzhdv8t": {
       "id": "khzhdv8t",
@@ -1778,11 +1725,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 83248598,
       "publishedAt": "2026-05-14T12:04:27",
-      "updatedAt": "2026-06-19T15:56:49",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:49"
     },
     "4g0u8ql3": {
       "id": "4g0u8ql3",
@@ -1811,11 +1757,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 59187915,
       "publishedAt": "2026-05-05T19:35:15",
-      "updatedAt": "2026-06-19T15:56:10",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:10"
     },
     "o3uiqu9d": {
       "id": "o3uiqu9d",
@@ -1844,11 +1789,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 75034652,
       "publishedAt": "2026-05-13T15:58:20",
-      "updatedAt": "2026-06-19T15:56:33",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:33"
     },
     "x10bym6y": {
       "id": "x10bym6y",
@@ -1877,11 +1821,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 81540208,
       "publishedAt": "2026-03-31T08:26:11",
-      "updatedAt": "2026-06-19T15:56:53",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:53"
     },
     "lu2t69fh": {
       "id": "lu2t69fh",
@@ -1910,11 +1853,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 73961979,
       "publishedAt": "2026-05-10T23:14:24",
-      "updatedAt": "2026-06-19T15:56:07",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:56:07"
     },
     "nm32mfho": {
       "id": "nm32mfho",
@@ -1943,11 +1885,10 @@
       ],
       "firstSeen": "2026-06-19T14:47:06.914Z",
       "lastSeen": "2026-06-19T16:22:48.577Z",
-      "active": false,
+      "active": true,
       "adNumber": 62520279,
       "publishedAt": "2026-03-29T15:12:23",
-      "updatedAt": "2026-06-19T15:57:04",
-      "delistedAt": "2026-06-19T16:45:52.652Z"
+      "updatedAt": "2026-06-19T15:57:04"
     }
   }
 }
