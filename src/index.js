@@ -91,6 +91,19 @@ async function cmdScrape() {
   const { browser, context } = await launchBrowser();
   try {
     const listings = await collectListings(context);
+
+    // Guard: if we collected nothing, the search was blocked (bot protection)
+    // or genuinely empty. Either way, do NOT touch the tracking state —
+    // otherwise a single blocked run would mark every car as "delisted".
+    if (listings.length === 0) {
+      console.error(
+        "\n[abort] collected 0 listings (likely bot-protection or a bad query). " +
+        "Leaving the tracker unchanged. Not committing."
+      );
+      process.exitCode = 1;
+      return;
+    }
+
     console.log(`\n[scrape] ${listings.length} unique listings total. Fetching details…\n`);
     const seenIds = await scrapeDetails(context, listings, db, now);
     const gone = markMissingInactive(db, seenIds, now);
